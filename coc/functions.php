@@ -1,6 +1,5 @@
 <?php
 
-/* Removing Admin Toolbar */
 	add_filter('show_admin_bar', '__return_false');
 /* /Removing Admin Toolbar */
 
